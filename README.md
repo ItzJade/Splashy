@@ -55,7 +55,7 @@ Template Goes Here
 
 # ToDo
 ### Main Systems
-- [x] Core
+- [ ] Core
 - [ ] Thread Autojoin
 - [ ] Status
 - [ ] Bot Mention
